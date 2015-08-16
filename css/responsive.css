@@ -1,0 +1,86 @@
+@media screen and (max-width: 1001px), screen and (max-device-width: 1001px), screen and (max-width: 1199px) {
+.main-wrapper{ width:96%; padding:0 2%;}
+input.in-box1{ width:45.5%;}
+
+}
+@media screen and (max-width: 907px), screen and (max-device-width: 907px), screen and (max-width: 1000px) {
+.inner-wrapper{ width:96%; padding:0 2%;}
+.logo-list li{ width:15%; margin-right:2%;}	
+.main-services{ margin-right:3%;}
+.footer-box-1{ width:37%;}
+.footer-box-2{ width:38%;}
+.footer-box-3{ width:25%;}
+.main-team{ min-height:590px;}
+ 
+}
+
+@media screen and (max-width: 801px), screen and (max-device-width: 801px), screen and (max-width: 906px) {
+.logo-list li {    margin-bottom: 28px;    margin-right: 3.3%;    width: 30%;}
+.main-services{	min-height: 300px;    width: 30%;}	
+input.in-box1 {    width: 44.5%;} 
+}
+
+@media screen and (max-width: 768px), screen and (max-device-width: 768px), screen and (max-width: 800px) {
+.footer-box-1{ width:100%;}	 
+.footer-box-2{ width:100%; margin:20px 0px;}
+.footer-box-3 { float: left;  text-align: left;  width: 100%;}
+header .inner-wrapper{ position:relative;}
+.header-left{ width:25%;}
+.header-right{ width:65%;}	 
+.home-page-banner{border-top: 1px solid hsl(0, 0%, 84%);}
+
+}
+
+
+@media screen and (max-width: 640px), screen and (max-device-width: 640px), screen and (max-width: 767px) {
+.main-services {    min-height: 275px;    width: 46%;}  
+.bottom{ padding:20px 0px;}	
+.header-left{ width:100%;}
+.header-left .logo{ margin:auto; display:table;}
+.header-right {    width: 100%;}
+.main-navigation .nav-menu {
+    display: table;    float: none;    margin: auto;    text-align: center;}
+.main-navigation #menu-top-manu li a{ padding:0 9px 16px;}
+.main-team {    display: table;    float: none;    margin: auto auto 15px;    min-height: inherit;    width: 85%;}
+.main-team.right {    float: none;}
+.team-promo-text p{ width:99%;} 
+input.in-box1 {    width: 95%; margin-bottom:12px;}
+.dow-app{ width:48%;}
+.wpcf7-validation-errors, .wpcf7-mail-sent-ok {    border: medium none !important;    float: right;    margin: 8px 0 0 !important;
+    text-align: center;    width: 45%;} 
+}
+
+@media screen and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 639px) {
+.home-page-banner img{ min-height:170px;}	
+.main-services{ min-height:300px;} 
+.logo-list li{ width:45%; margin-right:5%;}	
+.promo-text{ width:96%; padding:0px 2%;} 
+.main-services,.main-services.last {
+    display: table;    float: none;    margin: auto;    min-height: inherit;    width: 85%;}
+.footer-left{ width:100%;}
+.apply-form-left{width: 95%;}
+.apply-form-right{ width:95%; float:left;}
+.wpcf7-validation-errors, .wpcf7-mail-sent-ok{ width:95%;}
+.dow-app{ margin-right:16px;  width: 70%;}
+}
+
+@media screen and (max-width: 320px), screen and (max-device-width: 320px), screen and (max-width: 360px) {
+.main-navigation .nav-menu{ display:none;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

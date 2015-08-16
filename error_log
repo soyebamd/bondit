@@ -1,0 +1,1 @@
+[07-Feb-2015 15:34:19 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/bonditus/public_html/wp-content/themes/bondit/index.php on line 17
